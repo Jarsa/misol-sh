@@ -2,3 +2,8 @@
 	path = purchase-workflow
 	url = git@github.com:jarsa/purchase-workflow.git
 	branch = 14.0
+
+[submodule "server-ux"]
+	path = server-ux
+	url = git@github.com:jarsa/server-ux.git
+	branch = 14.0
