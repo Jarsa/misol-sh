@@ -7,3 +7,7 @@
 	path = server-ux
 	url = git@github.com:jarsa/server-ux.git
 	branch = 14.0
+[submodule "mexico"]
+	path = mexico
+	url = git@git.vauxoo.com:jarsa/mexico.git
+	branch = 14.0
